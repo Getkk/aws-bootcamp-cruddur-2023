@@ -17,6 +17,8 @@
   * Activated MFA for root user.
 4.  Created  Diagram using LucidChart.
 
+![image](../journal/assets/ScreenshotLucid-diagram week0.png)
+
 [![An ](journal/assets/ScreenshotLucid-diagram week0.png "Diagram")](https://github.com/Getkk/aws-bootcamp-cruddur-2023/blob/main/journal/assets/ScreenshotLucid-diagram%20week0.png)
 
 
