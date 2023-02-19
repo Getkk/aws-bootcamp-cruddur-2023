@@ -17,6 +17,6 @@
   * Activated MFA for root user.
 4.  Created  Diagram using LucidChart.
 
-![The diagram!](/assets/images/assets/ScreenshotLucid-diagram%20week0.png)
+![The diagram!](journal/assets/ScreenshotLucid-diagram week0.png)
 
 
