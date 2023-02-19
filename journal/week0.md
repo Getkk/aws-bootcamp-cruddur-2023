@@ -16,5 +16,5 @@
   * I had previously set up an AWS Organization and created the Bootcamp account as a subaccount.  
   * Activated MFA for root user.
 4.  Created  Diagram using LucidChart.
-![image](../main/journal/assets/ScreenshotLucid-diagram%20week0.png)
+![The diagram!](/assets/images/assets/ScreenshotLucid-diagram%20week0.png)
 https://github.com/Getkk/aws-bootcamp-cruddur-2023/blob/main/journal/assets/ScreenshotLucid-diagram%20week0.png
