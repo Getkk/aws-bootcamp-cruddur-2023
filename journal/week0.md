@@ -19,7 +19,9 @@
 
 ![image sreeentshot-diagram](assets/Cruddur-conceptual%20Diagram.pdf)
 ![img-diagram](assets/ScreenshotGitpod-week0.png)
-
+ And that is other daigram by using AWS icons for more betten presentation 
+ 
+ ![lucid daigram](assets/ScreenshotLucid-diagram%20week0.png)
 
 
 
