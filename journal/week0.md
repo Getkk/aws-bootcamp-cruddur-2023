@@ -18,6 +18,7 @@
 4.  Created  Diagram using LucidChart.
 
 ![image sreeentshot-diagram](assets/Cruddur-conceptual%20Diagram.pdf)
+![img-diagram](assets/ScreenshotGitpod-week0.png)
 
 
 
